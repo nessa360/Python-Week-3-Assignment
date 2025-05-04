@@ -1,6 +1,6 @@
 ## Discount Calculator: User Friendly Discount Computation
-- - Overview
-- This project provides a simple, user-friendly Python script that calculates the final price of an item after applying a discount. It ensures the discount is only applied if the discount percentage is 20% or higher, and provides validation for user inputs.
+- Overview
+This project provides a simple, user-friendly Python script that calculates the final price of an item after applying a discount. It ensures the discount is only applied if the discount percentage is 20% or higher, and provides validation for user inputs.
 
 ## Features
 - User input validation and error handling for price and discount percentage.
